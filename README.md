@@ -19,3 +19,11 @@ The steps followed during the assignment:
 6. Added Security.md
 
 7. Updated README.md
+
+8. Executed command 
+	-> git reset --hard HEAD~1
+	to remove the head commit
+
+	-> git push -f <remote repo addr> <branch>
+	 pushed the commit into remote
+	 
